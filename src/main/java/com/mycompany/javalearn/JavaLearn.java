@@ -21,6 +21,7 @@ public class JavaLearn {
      * @return Float la sperficie du rectange
      */
     public Float calculerSuperificieRectange(final Float longueur, final Float largeur) {
+        // code here
         return longueur * largeur;
     }
 }
